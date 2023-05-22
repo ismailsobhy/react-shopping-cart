@@ -60,7 +60,7 @@ The Cypress tests and files are orgnized in the following manner:
 
         - fixtures
             - locators.json          # locators used in the web tests
-            - request-response.json  # json used in the api tests to POST/PUT/DELETE and confirm on what we get from the GET
+            - request-response.json  # json used in the api tests to test GET/POST/PUT/DELETE
 
 ```
 You can run the tests from within the tests directory directly by running ```npx cypress open```  and selecting one of the above e2e tests
