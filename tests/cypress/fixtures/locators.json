@@ -1,0 +1,13 @@
+{
+  "cart": "div[class*='CartIcon']",
+  "totalPrice": "div[class*='SubPrice']",
+  "cartProductsPanel": "div[class*='CartProducts']",
+  "cartQuantity": "div[class*='CartQuantity']",
+  "CheckoutButton": "button[class*='CheckoutButton']",
+  "closeCart": "button[class*='CartButton']",
+  "buyButton": "button[class*='BuyButton']",
+  "deleteButtonFromCart": "button[class*='CartProduct__DeleteButton']",
+  "cartChangeQuantity": "button[class*='CartProduct__ChangeQuantity']",
+  "itemPrice": "div[class*='CartProduct__Price'] p",
+  "totalPriceLocator": "p[class*='Cart__SubPriceValue']"
+}

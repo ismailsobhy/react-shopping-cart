@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "category": {
+    "id": 0,
+    "name": "test"
+  },
+  "name": "Cookie",
+  "photoUrls": ["test"],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "sold"
+}
