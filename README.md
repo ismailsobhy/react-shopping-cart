@@ -49,7 +49,7 @@ npm start
 npm run test
 
 ```
-#### Cypress tests
+## Cypress tests
 The Cypress tests and files are orgnized in the following manner:
 ```
 - tests
