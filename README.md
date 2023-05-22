@@ -49,6 +49,21 @@ npm start
 npm run test
 
 ```
+#### Cypress tests
+The Cypress tests and files are orgnized in the following manner:
+```
+- tests
+    - cypress
+        - e2e
+            - api.cy.js              # api testing for https://petstore.swagger.io/v2
+            - spec.cy.js             # web testing for react-shopping-cart after running it from local
+
+        - fixtures
+            - locators.json          # locators used in the web tests
+            - request-response.json  # json used in the api tests to POST/PUT/DELETE and confirm on what we get from the GET
+
+```
+You can run the tests from within the tests directory directly by running ```npx cypress open```  and selecting one of the above e2e tests
 
 ### Copyright and license
 
