@@ -63,7 +63,7 @@ The Cypress tests and files are orgnized in the following manner:
             - request-response.json  # json used in the api tests to test GET/POST/PUT/DELETE
 
 ```
-You can run the tests from within the tests directory directly by running ```npx cypress open```  and selecting one of the above e2e tests
+You can run the tests from within the tests directory directly by running ```npx cypress open```  and selecting one of the above tests
 
 ### Copyright and license
 
